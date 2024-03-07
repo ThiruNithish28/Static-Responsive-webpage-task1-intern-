@@ -1,1 +1,2 @@
-# task1-intern
+# A static Responsive webpage (using Bootstrap)
+
